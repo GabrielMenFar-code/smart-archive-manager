@@ -1,7 +1,7 @@
 SmartArchive Manager 📦
 
 🚀 Sobre o Projeto
-Este projeto foi desenvolvido para automatizar a gestão de arquivamento físico e logístico, inspirado na minha rotina profissional na **Seedoc** e em experiências anteriores na **Cargill**. O sistema transforma entradas de dados manuais em relatórios estruturados em Excel.
+Este projeto foi desenvolvido para automatizar a gestão de arquivamento físico e logístico, inspirado na minha rotina profissional na **Sedoc** e em experiências anteriores na **Cargill**. O sistema transforma entradas de dados manuais em relatórios estruturados em Excel.
 
 🛠️ Tecnologias Utilizadas
 - **Python 3**: Lógica principal.
